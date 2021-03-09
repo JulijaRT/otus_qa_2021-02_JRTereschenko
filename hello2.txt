@@ -6,5 +6,9 @@ new string 4 develop
 
 333) der 8 uer
 
+<<<<<<< HEAD
 
 !!!my important notes!!!
+=======
+remote employee note about smth.
+>>>>>>> dd9660108ba0a080df0ef2f877a1aa35aaa22168
